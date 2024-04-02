@@ -32,7 +32,7 @@ This code provides a real-time visualization of hand landmarks detected by the M
 
 *** **Video Capture(0)** -> if primary webcam / built-in webcam.
 
-    **Video Capture(1)** -> if secondary webcam (not built-in webcam).
+*** **Video Capture(1)** -> if secondary webcam (not built-in webcam).
 
 ## Keypoints:
 - Real-time hand detection and tracking using the MediaPipe library.
